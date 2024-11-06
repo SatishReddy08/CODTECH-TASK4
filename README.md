@@ -3,7 +3,7 @@
 
 **Company:** CODTECH IT SOLUTION
 
-**iD:** CT12DS2486
+**ID:** CT12DS2486
 
 **Domain:** FRONTEND
 
